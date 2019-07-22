@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OffScreenPanel/static/css/main.b6c2a63c.chunk.css",
+    "main.js": "/OffScreenPanel/static/js/main.1eb70afa.chunk.js",
+    "main.js.map": "/OffScreenPanel/static/js/main.1eb70afa.chunk.js.map",
+    "runtime~main.js": "/OffScreenPanel/static/js/runtime~main.871a5b13.js",
+    "runtime~main.js.map": "/OffScreenPanel/static/js/runtime~main.871a5b13.js.map",
+    "static/js/2.811c7575.chunk.js": "/OffScreenPanel/static/js/2.811c7575.chunk.js",
+    "static/js/2.811c7575.chunk.js.map": "/OffScreenPanel/static/js/2.811c7575.chunk.js.map",
+    "index.html": "/OffScreenPanel/index.html",
+    "precache-manifest.0e62b61d88fa584a9aa3d8510212d111.js": "/OffScreenPanel/precache-manifest.0e62b61d88fa584a9aa3d8510212d111.js",
+    "service-worker.js": "/OffScreenPanel/service-worker.js",
+    "static/css/main.b6c2a63c.chunk.css.map": "/OffScreenPanel/static/css/main.b6c2a63c.chunk.css.map",
+    "static/media/logo.svg": "/OffScreenPanel/static/media/logo.49b6bbdd.svg"
+  }
+}
