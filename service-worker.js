@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OffScreenPanel/precache-manifest.0e62b61d88fa584a9aa3d8510212d111.js"
+  "/OffScreenPanel/precache-manifest.a2294d18de229438301a352432c85429.js"
 );
 
 self.addEventListener('message', (event) => {
